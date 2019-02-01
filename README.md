@@ -14,5 +14,6 @@
 ## REST
 ### What are Verbs?
 
-https://adamtom.at/app/uploads/2017/06/Screen-Shot-2017-06-16-at-19.20.29.png
+![Image description](https://adamtom.at/app/uploads/2017/06/Screen-Shot-2017-06-16-at-19.20.29.png)
+
 
