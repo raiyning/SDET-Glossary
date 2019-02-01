@@ -15,6 +15,10 @@ Similar to abstraction, encapsulation also hides data, but this time, for the pu
 Inheritance 
 Inheritance is the idea of getting or inheriting features from a parent. This concept is essential in Object oriented programming. In OOP this means that a child class (or subclass) can inherit features from a parent class (super class). The child class inherits attributes and methods from the parent class. This enables the child class (subclass) to define new attributes and methods which are then applied to those that were inherited. In other words, what has been inherited can be overridden in the child class and new logic can be created.
 
+Polymorphism 
+Poly is the Greek word for many; morph in the Greek means forms—so polymorphism means the ability to be many forms. In OOP refers to the ability of a variable, function or object to take on m any forms. Polymorphism incorporates inheritance due to the fact that classes that inherited from the  same parent class (super class) may contain methods (or functions) bearing the same name—but when executed, exhibit different behaviours. 
+
+
 
 
 
