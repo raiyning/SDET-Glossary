@@ -4,7 +4,7 @@
  
 ### OOP main glossary
  
-## Instance Vriables
+## Instance Variables
 
 # Objectives
 1. Define instance variables.
@@ -28,7 +28,7 @@ class TestClass
   end
 end
 ```
-* consider the two methods are present in a class. If someone were to instantiate the class ```test = TestClass.new``` and then run ```test.est_method``` then ```test.test_method_two``` the user would get an error ```undefined local variable duck``` . This happens because ```duck``` only exists in the first method.
+* consider the two methods are present in a class. If someone were to instantiate the class ```test = TestClass.new``` and then run ```test.test_method``` then ```test.test_method_two``` the user would get an error ```undefined local variable duck``` . This happens because ```duck``` only exists in the first method.
 
 * On the other hand if the variable was to be instantiated with ```@duck = "test"``` it would live throughout the whole instance. 
 ```
