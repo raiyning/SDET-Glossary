@@ -4,7 +4,6 @@
  
 ### OOP main glossary
 
-Four Pillars of Oject Oriented Programming
 
 ### Abstraction
 
