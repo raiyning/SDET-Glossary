@@ -39,6 +39,20 @@ var family = [{
 This way stores the two poeple in an array represented by the square brackets
 
 ### XML
+XML data is known as self-desribing or self-defining, meaning that the struture of the data is embededded with the data arrives there is no need to pre-build the structure to store the data. The basic building block of an XML document is an element, defined by tags. An element has beginning and an ending tag. As shown below
+
+```
+<?xml version="1.0" standalone="yes"?>
+
+<conversation>
+
+<greeting>Hello, world!</greeting>
+
+<response>Stop the planet, I want to get off!</response>
+
+</conversation>
+```
+XML's power resides in its complicty. It can take large chunks of information and consolidate them into an XML document.
 
 
 
