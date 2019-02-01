@@ -21,9 +21,7 @@ Waterfall/Linear/Sequential Model:
 - Each activity is completed before moving on to the next
 - Testing is carried out once the code has been fully developed and then a decision is made whether the product can be released
 
-* image of waterfall model
-
-V-Model/Sequential development model
+V-Model/Sequential development model:
 
 The left hand side of the model focuses on elaborating the initial requirement, providing successively more technical detail as development progresses. 
 
@@ -47,6 +45,19 @@ In the model these are:
  - Testing against the functional spec takes place at the system testing stage
  - Testing against the technical spec takes place at the integration testing stage
  - Testing against the program spec takes place at the unit testing stage
+
+This model allows testing to be concentrated on the detail provided in each work-product so that defects can be identified as early as possible.
+
+Iterative-incremental development models:
+
+Requirements do not need to be fully defined before coding can start. Instead a working version of the product is built in a series of iterations. Each stage encompasses requirements definition, design, code and test. 
+
+Iterative/Cyclical development have defined time scales and cost. Within this, cycles will be defined - these are referred to as time-boxes. For each time-box a requirement is defined and a version of the code is produced. At the end of each time-box a decision is made on what extra functionality needs to be created for the next iteration. This process is repeated until a fully working system is produced. 
+
+A key feature is the involvement of the user reps in the testing. This minimises the risk of developing an unsatisfactory product. The user reps are empowered to request changes to the software to meet their needs.
+
+
+
 
 
 
