@@ -21,14 +21,10 @@ Inheritance is the idea of getting or inheriting features from a parent. This co
 
 Poly is the Greek word for many; morph in the Greek means forms—so polymorphism means the ability to be many forms. In OOP polymorphism refers to the ability of a variable, function or object to take on many forms. Polymorphism incorporates inheritance due to the fact that classes that inherited from the  same parent class (super class) may contain methods (or functions) bearing the same name—but when executed, exhibit different behaviours. 
 
-
-
-
-
- 
 # Instance Variables
 
 ## Objectives
+
 1. Define instance variables.
 2. Distinguish instance variables from local variables
 3. Describe how instance variables give objects attributes and properties
@@ -68,6 +64,7 @@ If you were to look at the first example and replace ```duck``` with ```@duck```
 
 ## Describe how instance variables give objects attributes and properties
 * We use instance variables to pass atributes that are created in a different method and applied them in others.
+
 
 ### Ruby main glossary
  
