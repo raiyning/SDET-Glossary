@@ -37,6 +37,44 @@ Static analysis tools:
 - Used to enforce programming standards, improve the understanding of code and to calculate complexity and other metrics
 
 Modelling tools:
+- Used primarily by developers during the analysis and design stages of the SDLC
+- Very cost effective at finding defects as early as possible in the SDLC
+- Allow omissions and inconsistencies to be identified and fixed early so that detailed design/programming can begin from a consistent and robust model - this in turn prevents fault multiplication
 
+Test design tools:
+- Used to support the generation and creation of test cases
+- In order for the tool to generate test cases, a test basis needs to be input and maintained
+
+Test data preparation tools:
+- Used by testers and developers to manipulate data so that the environment is in the appropriate state for the test to be run
+- This can involve making changes to the field values in DBs, data files etc. and populating files with a spread of data
+
+Test comparators:
+- Compare the contents of files, DBs, XML messages, objects and other electronic data formats.
+- Allows expected results and actual results to be compared so that differences can be highlighted which provides assistance to developers when localising and debugging code
+
+Test execution tools:
+- Allows test scripts to be run automatically (or at least semi-automatically)
+- A test script is used to navigate through the system under test and compare predefined expected outcomes with actual outcomes
+- The results are then written to a test log
+
+Test harnesses/Unit test framework tools:
+- Used primarily by developers to simulate a small section of the environment in which the software will operate
+- Usually written by in-house developers to perform component or integration testing for a specific purpose
+- Use stubs and drivers 
+
+Dynamic analysis tools:
+- Used to detect the type of defects that are difficult to find during static testing
+- Typically used by developers during component testing and component integration testing
+- Generally used for safety-critical and other high risk software where reliabilty is critical
+
+The pilot project:
+- Aims of the project include the following:
+ - To establish what changes need to be made to the high-level processes and practices currently used within the test organisation
+ - To determine the lower level detail such as templates, naming standards and other guidelines for using the tool - this can take the form of a user guidelines document
+ - To establish whether the tool provides value for money - this is done by trying to estimate and quantify the financial benefits of using the tool
+ - To learn about what the tool can and cannot do and how these functions can be applied with the test organisation to obtain the maximum benefit
+
+- A pilot project should report back to the stakeholders that determined the requirements of the tool
 
  
