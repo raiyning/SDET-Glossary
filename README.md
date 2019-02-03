@@ -10,7 +10,23 @@
  
 ### Data main glossary
 
+# Data Parsing
+## REST
+### What is Rest?
+REST is representing a particular state from one state to another. This is an architectural style choice. What this architectural design uses are typically uniformed predefined operations. These operations are also known as RESTful operations.
+
+# Data Parsing
+## REST
+### What is CRUD?
+CRUD is an acronym which stands for Create, Read, Update, Delete. This is a model that should be taken into consideration when manipulating anything relating to data.
+
+#### Glossary terms
+REST - Representational State Transfer 
+CRUD - Create, Read, Update, Delete
+API - Application Program Interface
+
 ### Json
+
 JSON stands for JavaScript Object Notation(JSON), its primary use is to  transmit data between a web application and a server. They are lightweight text-based and human readable. It is incresinly popular as an alternative to XML. Calling from an API commonly returns JSON format information.
 
 Data wtihin a JSON is displayed like so
