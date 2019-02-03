@@ -25,7 +25,8 @@ REST - Representational State Transfer
 CRUD - Create, Read, Update, Delete
 API - Application Program Interface
 
-#### Json
+### Json
+
 JSON stands for JavaScript Object Notation(JSON), its primary use is to  transmit data between a web application and a server. They are lightweight text-based and human readable. It is incresinly popular as an alternative to XML. Calling from an API commonly returns JSON format information.
 
 Data wtihin a JSON is displayed like so
@@ -70,7 +71,7 @@ XML data is known as self-desribing or self-defining, meaning that the struture 
 XML's power resides in its complicty. It can take large chunks of information and consolidate them into an XML document.
 
 
-## API
+### API
 
 API (Application Programming Interface) - a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service.
 
