@@ -1,5 +1,5 @@
 # SDET-Glossary
- 
+
 *place main contents of your branch withing allocated headers
  
 ### OOP main glossary
@@ -180,5 +180,22 @@ Iterative/Cyclical development have defined time scales and cost. Within this, c
 A key feature is the involvement of the user reps in the testing. This minimises the risk of developing an unsatisfactory product. The user reps are empowered to request changes to the software to meet their needs.
 
 ![alt text](https://www.softwaretestinggenius.com/wp-content/uploads/2018/07/ISBF5B7.jpg "Logo Title Text 1")
+
+#### Specification
+Specification tests are derived from the specifications. The tester concentrates on what the software does and **does not** run the code to perform the tests. 
+
+ISTQB Definition: *A procedure to derive and/or select test cases based on an analysis of the specification, either functional or non-functional, of a component or system without reference to its internal structure.*
+
+
+Overall, these are the types of tests:
+
+| Specification | Structure | Experience | Maintenance |
+| --- | --- | --- | --- |
+| Black box | Control flow diagram | Error guessing | Statement coverage |
+| Equivalence partioning | Statement coverage | Exploratory guessing | |
+| Boundary Value Analysis | Decision coverage | | |
+| Decision Tables | Path coverage
+| Use cases |
  
 ### Data main glossary
+
