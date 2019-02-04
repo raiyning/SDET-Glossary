@@ -1,7 +1,5 @@
 # SDET-Glossary
 
-*place main contents of your branch withing allocated headers
- 
 ### OOP main glossary
 
 ### Abstraction
