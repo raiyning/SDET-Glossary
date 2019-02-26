@@ -403,7 +403,6 @@ Specification tests are derived from the specifications. The tester concentrates
 
 ISTQB Definition: *A procedure to derive and/or select test cases based on an analysis of the specification, either functional or non-functional, of a component or system without reference to its internal structure.*
 
-
 Overall, these are the types of tests:
 
 | Specification | Structure | Experience | Maintenance |
